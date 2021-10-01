@@ -3,7 +3,7 @@ entries:
   pages:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-10-01T13:27:05.586097439+01:00"
+    created: "2021-10-01T13:54:23.055764069+01:00"
     dependencies:
     - name: pages-api
       repository: http://localhost:8080
@@ -12,10 +12,10 @@ entries:
       repository: http://localhost:8080
       version: 1.x.x
     description: A Helm chart for Pages Application
-    digest: 599e78124e51f9958e949d20ba109ec70b86e03c711b01a1f1334a772cc1eee4
+    digest: adb8fb712e52c6304271806d90bbea0b69a03e9b7e06803dd6db81b834ccab33
     name: pages
     type: application
     urls:
     - pages-1.0.0.tgz
     version: 1.0.0
-generated: "2021-10-01T13:27:05.583921289+01:00"
+generated: "2021-10-01T13:54:23.053346992+01:00"
